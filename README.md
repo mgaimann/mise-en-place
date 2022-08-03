@@ -1,7 +1,6 @@
 # mise-en-place
 
-Welcome to my dot files, configuration files and other things that make up my workplace setup before cooking some code  
-(French: [mise-en-place](https://en.wikipedia.org/wiki/Mise_en_place), a term coined by the amazing [@andim](https://www.github.com/andim)) :)
+Welcome to my dot files, configuration files and other things that make up my workplace setup before cooking some code (French: [mise-en-place](https://en.wikipedia.org/wiki/Mise_en_place), a term coined by the amazing [@andim](https://www.github.com/andim)) :)
 
 
 ![image](mise-en-place.jpg)  
