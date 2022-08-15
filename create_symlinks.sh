@@ -4,3 +4,6 @@
 # install GNU stow
 sudo apt-get install stow
 
+# build the symlinks using the makefile
+make
+
