@@ -8,7 +8,7 @@ sudo apt update
 sudo apt install fish
 
 # add fish shell
-echo /usr/local/bin/fish | sudo tee -a /etc/shells
+echo /usr/bin/fish | sudo tee -a /etc/shells
 
 # make fish the default shell
-chsh -s /usr/local/bin/fish
+chsh -s /usr/bin/fish
