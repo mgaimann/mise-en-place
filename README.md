@@ -7,6 +7,9 @@ Welcome to my dot files, configuration files and other things that make up my wo
 Credit: Charles Haynes on [Wikimedia Commons](https://commons.wikimedia.org/wiki/File:Mise_en_place_for_hot_station.jpg) ([CC BY-SA 2.0](https://creativecommons.org/licenses/by-sa/2.0/)) 
 
 
+## Cloning this repo
+Make sure to clone this repo with `git clone --recurse-submodules git@github.com:mu-gaimann/mise-en-place.git` in order to fetch all submodules that are used (such as the nerd-fonts repo for instance).
+
 ## OS
 
 I am currently using Mint, but I will change to Ubuntu in the long term.
