@@ -8,7 +8,7 @@ Credit: Charles Haynes on [Wikimedia Commons](https://commons.wikimedia.org/wiki
 
 
 ## Cloning this repo
-Make sure to clone this repo with `git clone --recurse-submodules git@github.com:mu-gaimann/mise-en-place.git` in order to fetch all submodules that are used (such as the nerd-fonts repo for instance).
+Make sure to clone this repo with `git clone --recurse-submodules git@github.com:mu-gaimann/mise-en-place.git` in order to fetch all submodules that are used.
 
 ## OS
 
@@ -20,4 +20,7 @@ I am currently switching from bash to [fish](https://fishshell.com/) with the [o
 
 My current theme is [tide](https://github.com/IlanCosman/tide).
 
-*Manual item*: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). The fonts are installed with the script `install_fonts.fish`.
+## Manual items
+
+- Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
+- Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
