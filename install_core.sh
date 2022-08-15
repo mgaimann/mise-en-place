@@ -4,6 +4,9 @@
 ### TEXT EDITOR
 sudo apt-get install vim
 
+### BUILDING TOOLS
+sudo apt-get install cmake
+
 ### FILE PROCESSING
 sudo apt-get install unzip
 sudo apt-get install pdfunite
