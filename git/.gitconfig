@@ -1,0 +1,12 @@
+[user]
+	name = mu-gaimann
+	email = 35263162+mu-gaimann@users.noreply.github.com
+[core]
+	autocrlf = input
+[credential]
+        helper = cache
+
+# remove jupyter notebook output
+# from: https://stackoverflow.com/questions/28908319/how-to-clear-jupyter-notebooks-output-in-all-cells-from-the-linux-terminal
+[filter "strip-notebook-output"]
+    clean = "jupyter nbconvert --ClearOutputPreprocessor.enabled=True --to=notebook --stdin --stdout --log-level=ERROR"
