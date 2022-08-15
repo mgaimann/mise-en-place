@@ -23,4 +23,6 @@ My current theme is [tide](https://github.com/IlanCosman/tide).
 ## Manual items
 
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
+- CMake: install the latest version of [CMake](https://cmake.org/install/)
 - Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
+
