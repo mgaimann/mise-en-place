@@ -5,9 +5,6 @@
 
 # install fish
 # from: https://launchpad.net/~fish-shell/+archive/ubuntu/release-3
-sudo apt-add-repository ppa:fish-shell/release-3
-sudo apt update
-sudo apt install fish
 
 # add fish shell
 echo /usr/bin/fish | sudo tee -a /etc/shells
