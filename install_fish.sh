@@ -21,3 +21,13 @@ fish install --path=~/.local/share/omf --config=./oh-my-fish
 
 # check omf for updates
 omf update
+
+# install fisher package manager
+# from: https://github.com/jorgebucaran/fisher
+curl -sL https://git.io/fisher | source && fisher install jorgebucaran/fisher
+
+# install the tide theme
+fisher install IlanCosman/tide@v5
+
+# configure tide
+tide configure
