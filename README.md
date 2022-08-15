@@ -17,3 +17,5 @@ I am currently using Mint, but I will change to Ubuntu in the long term.
 ## Shell
 
 I am currently switching from bash to [fish](https://fishshell.com/) with the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) framework as my default shell.
+
+*Manual item*: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). The fonts are installed with the script `install_fonts.fish`.
