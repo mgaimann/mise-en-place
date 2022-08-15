@@ -13,4 +13,4 @@ I am currently using Mint, but I will change to Ubuntu in the long term.
 
 ## Shell
 
-I am currently switching from bash to [fish](https://fishshell.com/) as my default shell.
+I am currently switching from bash to [fish](https://fishshell.com/) with the [oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) framework as my default shell.
