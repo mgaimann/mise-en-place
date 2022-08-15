@@ -1,16 +1,20 @@
 #!/bin/bash
-
 # script for installing several utilities
 
-# install vim
+### TEXT EDITOR
 sudo apt-get install vim
 
-# install unzip
+### FILE PROCESSING
 sudo apt-get install unzip
+sudo apt-get install pdfunite
 
-# install tmux
+### TERMINAL EFFICIENCY
 sudo apt-get install tmuxinator
 
+### DOCUMENTATION GENERATION
+sudo apt-get install doxygen
+
+### AESTHETICS
 # install jq command line processor
 # from: https://stedolan.github.io/jq/download/
 sudo apt-get install jq
