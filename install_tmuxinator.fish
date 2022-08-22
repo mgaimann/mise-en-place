@@ -13,7 +13,7 @@ echo "Try to clone .tmux into home folder (ignore if it exists already)"
 git clone git@github.com:gpakosz/.tmux.git
 
 # link the .tmux.config file
-ln -s -f .tmux/.tmux.conf
+ln -s -f ~/repos/.tmux/.tmux.conf ~/.tmux.conf
 
 # try to update if not possible
 cd .tmux
