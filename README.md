@@ -20,6 +20,15 @@ I am currently switching from bash to [fish](https://fishshell.com/) with the [o
 
 My current theme is [tide](https://github.com/IlanCosman/tide).
 
+## Tmuxinator
+
+I am using the `.tmux.config` dotfile from [gpakosz](https://github.com/gpakosz/.tmux), and a custom `.tmux.config.local` file.
+It is installed by default into a folder named ~/repos/ and then symlinked.
+
+## SSH Keys
+
+There is a script that automates the generation and exchange of SSH keys between a remote and local.
+
 ## Manual items
 
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
