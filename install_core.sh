@@ -21,6 +21,9 @@ sudo apt-get install tmuxinator -y
 ### DOCUMENTATION GENERATION
 sudo apt-get install doxygen -y
 
+### SYSTEM STATS
+sudo apt-get install screenfetch -y
+
 ### AESTHETICS
 # install jq command line processor
 # from: https://stedolan.github.io/jq/download/
