@@ -24,3 +24,4 @@ My current theme is [tide](https://github.com/IlanCosman/tide).
 
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
 - Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
+
