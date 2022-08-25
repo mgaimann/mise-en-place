@@ -5,6 +5,10 @@
 sudo apt update -y
 sudo apt upgrade -y
 
+### FISH SHELL
+sudo apt-add-repository ppa:fish-shell/release-3
+sudo apt install fish -y
+
 ### TEXT EDITOR
 sudo apt-get install vim -y
 
@@ -24,6 +28,11 @@ sudo apt-get install doxygen -y
 ### SYSTEM STATS
 sudo apt-get install lm-sensors -y
 sudo apt-get install screenfetch -y
+
+### SYMBOLIC LINKS
+# link all dotfiles to the home directory using symbolic links (symlinks)
+# instructions from: https://www.jakewiesler.com/blog/managing-dotfiles
+sudo apt-get install stow -y
 
 ### AESTHETICS
 # install jq command line processor

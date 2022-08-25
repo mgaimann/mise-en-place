@@ -1,7 +1,18 @@
 # makefile for creating symlinks for dotfiles
-# from: https://github.com/venthur/dotfiles/blob/master/makefile
+# inspired from: https://github.com/venthur/dotfiles/blob/master/makefile
 
-all:
+all: install symlinks
+
+install:
+	./install_core.sh
+	./install_fish_addons.sh
+	./install_python_env.sh
+	fish configure_fish.fish
+	fish install_fonts.fish
+	fish install_tmuxinator.fish
+	fish generate_ssh_keys.fish
+
+symlinks:
 	stow --verbose --target=$$HOME --restow */
 
 delete:
