@@ -20,6 +20,10 @@ I am currently switching from bash to [fish](https://fishshell.com/) with the [o
 
 My current theme is [tide](https://github.com/IlanCosman/tide).
 
+## Fonts
+
+I currently use Meslo Nerd Fonts.
+
 ## Tmuxinator
 
 I am using the `.tmux.config` dotfile from [gpakosz](https://github.com/gpakosz/.tmux), and a custom `.tmux.config.local` file.
@@ -34,3 +38,5 @@ There is a script that automates the generation and exchange of SSH keys between
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
 - Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
 
+## To Do
+- replace Meslo Nerd Font with a font that correctly displays powerline symbols.
