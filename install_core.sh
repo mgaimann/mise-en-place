@@ -22,6 +22,7 @@ sudo apt-get install tmuxinator -y
 sudo apt-get install doxygen -y
 
 ### SYSTEM STATS
+sudo apt-get install lm-sensors -y
 sudo apt-get install screenfetch -y
 
 ### AESTHETICS
