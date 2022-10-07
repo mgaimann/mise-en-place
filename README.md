@@ -35,13 +35,12 @@ There is a script that automates the generation and exchange of SSH keys between
 
 ## Customizing
 - Choose a fish theme: `fish config theme show` -> `fish config theme choose Dracula`
+- Load a specific environment on startup: add `conda activate env` to your `config.fish` (must be within the `# >>> conda initialize >>>` block!)
 
 ## Manual items
 
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
 - Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
-- Initialize conda with `conda init fish`
-- Add commands that are executed each time your fish shell is opened (e.g. `conda activate env`)
 
 ## To Do
 - replace Meslo Nerd Font with a font that correctly displays powerline symbols.
