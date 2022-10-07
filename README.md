@@ -33,6 +33,9 @@ It is installed by default into a folder named ~/repos/ and then symlinked.
 
 There is a script that automates the generation and exchange of SSH keys between a remote and local.
 
+## Customizing
+- Choose a fish theme: `fish config theme show` -> `fish config theme choose Dracula`
+
 ## Manual items
 
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
