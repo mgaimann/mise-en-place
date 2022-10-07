@@ -6,7 +6,7 @@ if status is-interactive
 
 # >>> conda initialize >>>
 # !! Contents within this block are managed by 'conda init' !!
-eval /home/mario/anaconda3/bin/conda "shell.fish" "hook" $argv | source
+eval /datapool/homes/ac141173/mambaforge/bin/conda "shell.fish" "hook" $argv | source
 # <<< conda initialize <<<
 
 end

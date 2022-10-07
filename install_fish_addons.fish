@@ -7,8 +7,8 @@ echo /usr/bin/fish | sudo tee -a /etc/shells
 chsh -s /usr/bin/fish
 
 # install oh-my-fish (omf)
-curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install > install
-fish install --path=~/.local/share/omf --config=./oh-my-fish
+#curl https://raw.githubusercontent.com/oh-my-fish/oh-my-fish/master/bin/install > install
+#fish install --path=~/.local/share/omf --config=./oh-my-fish
 
 # install fisher package manager
 # from: https://github.com/jorgebucaran/fisher
