@@ -6,7 +6,8 @@ sudo apt update -y
 sudo apt upgrade -y
 
 ### FISH SHELL
-sudo apt-add-repository ppa:fish-shell/release-3
+sudo apt-add-repository ppa:fish-shell/release-3 -y
+sudo apt update -y
 sudo apt install fish -y
 
 ### TEXT EDITOR
