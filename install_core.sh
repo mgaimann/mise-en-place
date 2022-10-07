@@ -19,9 +19,6 @@ sudo apt-get install cmake -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
 
-### TERMINAL EFFICIENCY
-sudo apt-get install tmuxinator -y
-
 ### DOCUMENTATION GENERATION
 sudo apt-get install doxygen -y
 
@@ -34,7 +31,3 @@ sudo apt-get install screenfetch -y
 # instructions from: https://www.jakewiesler.com/blog/managing-dotfiles
 sudo apt-get install stow -y
 
-### AESTHETICS
-# install jq command line processor
-# from: https://stedolan.github.io/jq/download/
-sudo apt-get install jq -y
