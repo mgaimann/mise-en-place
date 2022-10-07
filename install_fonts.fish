@@ -1,3 +1,5 @@
+#!/usr/bin/fish
+
 # manage system fonts
 # from: https://wiki.ubuntu.com/Fonts
 
