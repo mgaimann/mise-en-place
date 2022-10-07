@@ -17,3 +17,5 @@ fc-cache -f -v
 
 # reload fish
 omf reload
+
+exit
