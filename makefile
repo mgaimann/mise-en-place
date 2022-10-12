@@ -8,6 +8,7 @@ local: install_base install_local symlinks
 install_base:
 	bash install_core.sh
 	bash install_python_env.sh
+	source ~/.bashrc  # for conda
 	fish install_fish_addons.fish
 	fish configure_fish.fish
 	fish install_fonts.fish
