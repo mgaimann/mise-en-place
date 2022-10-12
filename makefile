@@ -1,6 +1,8 @@
 # makefile for creating symlinks for dotfiles
 # inspired from: https://github.com/venthur/dotfiles/blob/master/makefile
 
+SHELL := /bin/bash
+
 base: install_base symlinks
 
 local: install_base install_local symlinks
