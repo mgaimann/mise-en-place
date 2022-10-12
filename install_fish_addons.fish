@@ -3,6 +3,9 @@
 # add fish shell
 echo /usr/bin/fish | sudo tee -a /etc/shells
 
+# initialize conda with fish
+conda init fish
+
 # make fish the default shell
 chsh -s /usr/bin/fish
 
