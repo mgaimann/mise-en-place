@@ -15,7 +15,4 @@ unzip -o Meslo.zip -d ~/.local/share/fonts/meslo-nerd-fonts/ && rm Meslo.zip
 fc-cache ~/.local/share/fonts
 fc-cache -f -v
 
-# reload fish
-omf reload
-
 exit
