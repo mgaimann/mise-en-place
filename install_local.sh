@@ -1,9 +1,6 @@
 #!/bin/bash
 # script for installing several utilities on a local machine
 
-### TERMINAL EFFICIENCY
-sudo apt-get install tmuxinator -y
-
 ### AESTHETICS
 # install jq command line processor
 # from: https://stedolan.github.io/jq/download/

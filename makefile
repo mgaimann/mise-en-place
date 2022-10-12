@@ -16,6 +16,7 @@ install_base:
 	fish install_fonts.fish
 
 install_local:
+	bash install_local.sh
 	fish generate_ssh_keys.fish
 	fish install_tmuxinator.fish
 
