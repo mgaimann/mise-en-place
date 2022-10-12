@@ -10,7 +10,7 @@ wget https://raw.githubusercontent.com/tmuxinator/tmuxinator/master/completion/t
 # download a good .tmux.conf file or pull
 cd ~/repos/
 echo "Try to clone .tmux into home folder (ignore if it exists already)"
-git clone git@github.com:gpakosz/.tmux.git
+git clone https://github.com/gpakosz/.tmux.git
 
 # link the .tmux.config file
 ln -s -f ~/repos/.tmux/.tmux.conf ~/.tmux.conf
