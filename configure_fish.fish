@@ -7,7 +7,7 @@
 # from: https://launchpad.net/~fish-shell/+archive/ubuntu/release-3
 
 # check omf for updates
-omf update
+#omf update
 
 # install the tide theme
 fisher install IlanCosman/tide@v5
@@ -19,7 +19,7 @@ tide configure
 # install some plugins
 
 # weather plugin
-omf install weather
+#omf install weather
 
 # finally reload config
-omf reload
+#omf reload
