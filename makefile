@@ -16,8 +16,8 @@ install_base:
 	fish install_fonts.fish
 
 install_local:
-	fish install_tmuxinator.fish
 	fish generate_ssh_keys.fish
+	fish install_tmuxinator.fish
 
 symlinks:
 	stow --verbose --target=$$HOME --restow */
