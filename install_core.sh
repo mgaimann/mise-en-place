@@ -17,6 +17,7 @@ sudo apt-get install vim -y
 sudo apt-get install cmake -y
 
 ### FILE PROCESSING
+sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
 
