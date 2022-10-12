@@ -23,4 +23,5 @@ rm .tmux.conf.local  # delete local config file (is in this repo, symlink will b
 
 # source the config file
 echo "Try to source the .tmux.conf file..."
-tmux source ~/.tmux.conf
+tmux source ~/.tmux.conf || echo "No tmux server running." 
+
