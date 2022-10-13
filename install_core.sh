@@ -21,6 +21,10 @@ sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
 
+### ENCRYPTION
+sudo apt-get install openssl -y
+sudo apt-get install libssl-dev -y
+
 ### DOCUMENTATION GENERATION
 sudo apt-get install doxygen -y
 
