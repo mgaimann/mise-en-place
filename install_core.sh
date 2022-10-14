@@ -21,6 +21,9 @@ sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
 
+### VIDEO PROCESSING
+sudo apt-get install ffmpeg -y
+
 ### ENCRYPTION
 sudo apt-get install openssl -y
 sudo apt-get install libssl-dev -y
