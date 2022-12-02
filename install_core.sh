@@ -12,6 +12,7 @@ sudo apt install fish -y
 
 ### TEXT EDITOR
 sudo apt-get install vim -y
+sudo apt-get install neovim -y
 
 ### BUILDING TOOLS
 sudo apt-get install cmake -y
