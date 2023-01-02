@@ -12,3 +12,6 @@ cd build
 cmake -DCMAKE_BUILD_TYPE=Release -DLLVM_ENABLE_PROJECTS=lld -DCMAKE_INSTALL_PREFIX=/usr/local ../llvm-project/llvm
 make install
 rm -r build
+
+# install valgrind memcheck
+sudo apt-get install valgrind -y
