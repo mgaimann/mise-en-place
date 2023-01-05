@@ -41,3 +41,8 @@ sudo apt-get install screenfetch -y
 # instructions from: https://www.jakewiesler.com/blog/managing-dotfiles
 sudo apt-get install stow -y
 
+### APP IMAGES
+sudo apt-get install software-properties-common -y
+sudo add-apt-repository ppa:appimagelauncher-team/stable -y
+sudo apt-get update -y
+sudo apt-get install appimagelauncher -y
