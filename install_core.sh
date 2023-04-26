@@ -24,6 +24,9 @@ sudo apt-get install pdfunite -y
 sudo apt-get install hdfview -y
 sudo apt-get install hdf5-tools h5utils libhdf5-serial-dev -y
 
+### PARALLEL PROCESSING
+sudo apt install openmpi-bin openmpi-dev openmpi-common openmpi-doc libopenmpi-dev -y
+
 ### ENCRYPTION
 sudo apt-get install openssl -y
 sudo apt-get install libssl-dev -y
