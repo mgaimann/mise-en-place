@@ -21,6 +21,7 @@ sudo apt-get install cmake -y
 sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
+sudo apt-get install hdfview -y
 
 ### VIDEO PROCESSING
 sudo apt-get install ffmpeg -y
