@@ -21,7 +21,6 @@ sudo apt-get install cmake -y
 sudo apt-get install curl -y
 sudo apt-get install unzip -y
 sudo apt-get install pdfunite -y
-sudo apt-get install hdfview -y
 sudo apt-get install hdf5-tools h5utils libhdf5-serial-dev -y
 
 ### PARALLEL PROCESSING
