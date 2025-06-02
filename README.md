@@ -39,6 +39,7 @@ There is a script that automates the generation and exchange of SSH keys between
 
 ## Manual items
 
+- Run `stow vim` in the mise-en-place repo root, to create a symlink
 - Terminal: change the fonts in the preferences of your terminal to a Nerd Font (e.g. MesloLGS NF). 
 - Install JetBrains IDEs using the [JetBrains Toolbox](https://www.jetbrains.com/lp/toolbox/).
 
